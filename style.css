@@ -1,0 +1,61 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f5f5f5;
+    color: #333;
+}
+
+header {
+    background: #111;
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.hero {
+    padding: 40px;
+    text-align: center;
+    background: #fff;
+}
+
+.cta {
+    text-align: center;
+    margin: 30px;
+}
+
+.botao {
+    background: #111;
+    color: #fff;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.produtos {
+    display: flex;
+    gap: 20px;
+    padding: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    background: #fff;
+    padding: 20px;
+    width: 260px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.card a {
+    display: block;
+    margin-top: 10px;
+    color: #111;
+    font-weight: bold;
+}
